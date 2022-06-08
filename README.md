@@ -1,2 +1,10 @@
-# Computer_Architechure_P2
-This repository contains the code for the Computer architecture and organ project 2.
+Project 2: CAO: CS520-02
+Simple Pipeline
+
+Submitted by:
+Nikita Mandlik
+B00917805
+nmandli1@binghamton.edu
+
+
+
