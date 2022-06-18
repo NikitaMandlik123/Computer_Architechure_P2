@@ -1,4 +1,4 @@
-# Project 2: CAO: CS520-02: Simple Pipeline
+# Project 2: CAO: CS520-02: Pipeline Simulator
 
 ## AIM: Develop the simulated pipeline with an instruction decoder.
 
